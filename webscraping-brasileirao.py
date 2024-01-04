@@ -48,7 +48,7 @@ ranking['classificacao'] = df.to_dict('records')
 # Certifique-se de fechar o driver quando não precisar mais
 driver.quit()
 
-# Convertendo a biblioteca e salvando em um arquivo JSON
+# Convertendo e salvando em um arquivo JSON
 js = json.dumps(ranking)
 fp = open('ranking.json', 'w')
 fp.write(js)
