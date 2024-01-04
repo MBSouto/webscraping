@@ -1,8 +1,8 @@
 # Web Scraping da tabela do Campeonato Brasileiro
 
-Este projeto foi criado apenas para fins educacionais.
+Este projeto foi criado apenas praticar técnicas de extração de dados.
 
-O código mostra como fazer web scraping de páginas de conteúdo dinâmico geradas a partir de Javascript usando Python e Selenium.
+O código mostra como fazer web scraping de páginas de conteúdo dinâmico geradas a partir do codigo fonte do site usando Python e Selenium.
 
 Usei como dados o site da CBF para extrair informações da classificação do campeonato brasileiro serie A e gerar um arquivo json com os dados da tabela.
 **Importante: apenas para fins educacionais**
